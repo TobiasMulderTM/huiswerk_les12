@@ -23,13 +23,23 @@ td {
     padding: 10px;
 }
 
-#cell1, #cell3, #cell5, #cell7, #cell9, #cell11, #cell13, #cell15 {
-    background-color: #f2f2f2;
-}
-
-#cell2, #cell4, #cell6, #cell8, #cell10, #cell12, #cell14, #cell16 {
-    background-color: #e6e6e6;
-}
+/* Achtergrondkleuren voor elke cel */
+#cell1 { background-color: #ff9999; }
+#cell2 { background-color: #99ff99; }
+#cell3 { background-color: #9999ff; }
+#cell4 { background-color: #ffcc99; }
+#cell5 { background-color: #ccff99; }
+#cell6 { background-color: #99ccff; }
+#cell7 { background-color: #ff99cc; }
+#cell8 { background-color: #cc99ff; }
+#cell9 { background-color: #ffff99; }
+#cell10 { background-color: #99ffff; }
+#cell11 { background-color: #ff99ff; }
+#cell12 { background-color: #ff6699; }
+#cell13 { background-color: #66ff99; }
+#cell14 { background-color: #6699ff; }
+#cell15 { background-color: #99ffcc; }
+#cell16 { background-color: #cc99cc; }
 
 td img {
     width: 100px;
